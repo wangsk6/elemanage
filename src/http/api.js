@@ -48,3 +48,7 @@ export const updateaddress = function (data){
 export const getAllWillSend = function (data){
   return http(`getAllWillSend`,data,'get')
 }
+// uploadExpressNumber 提交运单号
+export const uploadexpressnumber = function (data){
+  return http(`uploadexpressnumber`,data,'post')
+}

@@ -39,17 +39,17 @@
                   <i class="glyphicon glyphicon-picture"></i> 轮播图管理
                 </router-link>
               </li>
-              <li>
+              <!-- <li>
                 <router-link :to="{path:'/user'}">
                   <i class="glyphicon glyphicon-comment"></i> 消息管理
                 </router-link>
-              </li>
-              <li>
+              </li> -->
+              <!-- <li>
                 <router-link :to="{path:'/address'}">
                   <i class="glyphicon glyphicon-home"></i>
                   收货地址管理
                 </router-link>
-              </li>
+              </li> -->
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li class="dropdown">

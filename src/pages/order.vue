@@ -40,7 +40,7 @@
             <td>{{item.phone}}</td>
             <td>{{item.userName}}</td>
             <td>{{item.address}}</td>
-            <td>{{item.orderStatus}}</td>
+            <td>{{item.type}}</td>
             <td>{{item.remarks}}</td>
             <td>
               <a @click="showUpdateAddress(item)">修改</a>
